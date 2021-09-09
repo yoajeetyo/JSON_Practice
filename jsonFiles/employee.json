@@ -1,0 +1,16 @@
+{
+"firstName" : "Ajeet",
+"lastName" : "Singh",
+"address" : [
+{
+"street" : "abc",
+"city" : "bgp",
+"state" : "bih"
+},
+{
+"street" : "xyz",
+"city" : "bengalore",
+"state" : "karnataka"
+}
+]
+}
