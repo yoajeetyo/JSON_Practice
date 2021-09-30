@@ -1,1 +1,7 @@
-[{"Rice":[{"Price":1000,"Weight":10,"Name":"Basmati Rice"}]}]
+[ {
+  "Rice" : [ {
+    "Price" : 1000,
+    "Weight" : 10,
+    "Name" : "Basmati Rice"
+  } ]
+} ]
